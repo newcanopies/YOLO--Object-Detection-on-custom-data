@@ -2,7 +2,7 @@
 
 README file for phone detection model 
 
-
+Darknet Reference: YOLO V2 https://pjreddie.com/darknet/yolo/
 
 SETUP, REQUIREMENTS, APPROACH and COMMENTS
 -----------------------------------------------------------------------------------------------------
