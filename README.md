@@ -28,6 +28,7 @@ TRAINING:
 
 1) Download pretrained YOLO weights for Imagenet in the same directory as darknet.exe:
 > wget https://pjreddie.com/media/files/darknet19_448.conv.23 (for linux)
+
 > curl -O https://pjreddie.com/media/files/darknet19_448.conv.23 (for mac)
 
 (optional) 
