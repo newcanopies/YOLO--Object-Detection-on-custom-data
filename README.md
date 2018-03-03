@@ -27,8 +27,8 @@ The default setup is configured assuming GPU access during runtime for both trai
 TRAINING:
 
 1) Download pretrained YOLO weights for Imagenet in the same directory as darknet.exe:
-	wget https://pjreddie.com/media/files/darknet19_448.conv.23 (for linux)
-	curl -O https://pjreddie.com/media/files/darknet19_448.conv.23 (for mac)
+> wget https://pjreddie.com/media/files/darknet19_448.conv.23 (for linux)
+> curl -O https://pjreddie.com/media/files/darknet19_448.conv.23 (for mac)
 
 (optional) 
 Depending on the available computation, change batch size and subdivisions in line 3,4 cfg/yolo-obj.cfg (lesser the faster)
